@@ -11,8 +11,8 @@ Xây dựng chương trình gán nhãn từ loại cho tiếng Việt <br>
 2. Sử dụng thư viện gán nhãn từ loại có sẵn để so sánh kết quả
 
 ## Installation
-Dự án có sử dụng thư viện `underthesea` phiên bản `1.1.5` để tách từ tiếng Việt (word_tokenize) và gán nhãn từ loại (pos_tag) <br>
-Chi tiết thư viện tại: https://underthesea.readthedocs.io/en/latest/readme.html <br>
+- Dự án có sử dụng thư viện `underthesea` phiên bản `1.1.5` để tách từ tiếng Việt (word_tokenize) và gán nhãn từ loại (pos_tag) <br>
+- Chi tiết thư viện tại: https://underthesea.readthedocs.io/en/latest/readme.html <br>
 
 ## Files in repository
 - vietnamese_pos_tagging.ipynb: file Jupyter Notebook của dự án
